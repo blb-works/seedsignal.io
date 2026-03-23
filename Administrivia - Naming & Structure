@@ -1,0 +1,13 @@
+Convention for stem naming: 
+
+ASCAP-[WorkID]-[Title]-[Instrument]-[Index]
+
+Examples: 
+
+    ASCAP-123456-Glass Orchard-DRUMS-01.wav
+
+    ASCAP-123456-Glass Orchard-BASS-01.wav
+
+    ASCAP-123456-Glass Orchard-GTR-RHY-01.wav
+
+Contributions that do not respect this convention will be REMOVED WITHOUT FURTHER COMMENT. - Seidkona
