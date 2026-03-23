@@ -1,0 +1,119 @@
+# Attribution Guide
+
+This project is a public lab under **CC BY‑NC‑SA 4.0**.  
+This file shows you how to credit seedsignal.io correctly and explains common edge cases.
+
+---
+
+## 1. Standard attribution
+
+Use this in track notes, descriptions, or documentation:
+
+> Prototype stems courtesy of **seedsignal.io** (CC BY‑NC‑SA 4.0).
+
+If space allows, you can extend it:
+
+> Prototype stems courtesy of **seedsignal.io** · public lab under CC BY‑NC‑SA 4.0.
+
+---
+
+## 2. Where to put attribution
+
+- **Music releases (non‑commercial)**: track or album credits, Bandcamp/Netlabel notes, project README.  
+- **Video**: description box or end‑card credits.  
+- **Classroom / workshops**: slides, handouts, or LMS description.  
+- **Portfolios / demo reels**: on the page where the work appears or in a global credits section.
+
+If you are unsure where to place it, put the credit wherever you normally list samples, collaborators, or tools.
+
+---
+
+## 3. What is licensed (and what is not)
+
+**Licensed under CC BY‑NC‑SA 4.0:**
+
+- Instrumental prototype stems and related project/session files in this repository.  
+- Any non‑vocal derivative audio you make that uses these stems, as long as it remains non‑commercial and you keep the same license when you share it.
+
+**Not licensed here:**
+
+- The **lyrics** and underlying **musical compositions** associated with CODENAME: Dakini.  
+- Any present or future official recordings, vocal performances, or masters outside this lab.  
+- Any right to exploit the compositions or lyrics commercially.
+
+This means:
+
+- You may build non‑commercial works from the stems.  
+- You may **not** assume permission to publish or monetize the stories, lyrics, or compositions in commercial form.
+
+---
+
+## 4. Edge cases
+
+### Non‑commercial but public (YouTube, SoundCloud, Twitch, etc.)
+
+You **may** upload works using these stems if:
+
+- You are not monetizing the relevant channel/video/stream (no ads, no paid subs tied to that content, no sponsorship sold on the back of that work).  
+- You include proper attribution and a link to this repo or seedsignal.io.
+
+If any platform treats your upload as commercial (ad revenue, partner program, branded content, etc.), you **must not** use these stems unless you have separate written permission.
+
+### Portfolios and demo reels
+
+You **may** include non‑commercial works using these stems in:
+
+- Personal showreels  
+- Online portfolios  
+- Applications for school or non‑commercial programs
+
+Conditions:
+
+- Clear attribution to seedsignal.io and CC BY‑NC‑SA 4.0.  
+- The portfolio itself is not sold, licensed, or monetized as a product or ad.
+
+### Raw stems vs. transformed audio
+
+Allowed:
+
+- Heavily transformed use inside your own non‑commercial tracks, études, sound design studies, or teaching material.  
+- Sharing those derivative works under **CC BY‑NC‑SA 4.0** with proper attribution.
+
+Not allowed:
+
+- Re‑uploading the raw stems, lightly edited stems, or simple stem bundles as a “sample pack,” “kit,” “library,” or similar.  
+- Passing off the stems as your own recordings or selling access to them.
+
+---
+
+## 5. Quick examples
+
+**Example A – non‑commercial track on a free netlabel**
+
+> Track credits:  
+> Prototype stems courtesy of **seedsignal.io** (CC BY‑NC‑SA 4.0).  
+> Additional composition and mixing by [Your Name].
+
+**Example B – YouTube walkthrough (no monetization)**
+
+Add this in the description:
+
+> This study uses prototype stems from **seedsignal.io**, a public lab under CC BY‑NC‑SA 4.0.  
+> Source: https://seedsignal.io
+
+**Example C – course or workshop**
+
+On slides or syllabus:
+
+> Practice material includes prototype stems from **seedsignal.io** (CC BY‑NC‑SA 4.0), used under non‑commercial terms.
+
+---
+
+## 6. When in doubt
+
+If you are unsure whether your use is non‑commercial, or if you want to request a different license for a specific project:
+
+- Open an issue in this repository **or**  
+- Contact the maintainer through the channels listed at **seedsignal.io**.
+
+Always ask before assuming permission for anything commercial or borderline‑commercial.
