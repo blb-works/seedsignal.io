@@ -1,7 +1,8 @@
 ```markdown
 # seedsignal.io · Prototype Commons
 
-seedsignal.io is a public lab under **CC BY‑NC‑SA 4.0** so you can learn the protocols, work the practices, study the craft, build non‑commercial worlds, distill your own experiences, and still trace signal to source.
+seedsignal.io is a public lab under **CC BY‑NC‑SA 4.0** so you can learn the protocols, work the practices,
+study the craft, build non‑commercial worlds, distill your own experiences, and still trace signal to source.
 
 ---
 
@@ -11,7 +12,8 @@ seedsignal.io is a public lab under **CC BY‑NC‑SA 4.0** so you can learn the
 - Material for studying arrangement, sound design, and workflow in a low‑pressure environment.  
 - A sandbox for experimenting with structure, narrative, and emotion in your own non‑commercial work.
 
-These stems are intentionally *not* “industry‑polished.” They are starting points, reference patterns, and scaffolds for your own process.
+These stems are intentionally *not* “industry‑polished.” They are starting points, reference patterns, and
+scaffolds for your own process.
 
 ---
 
@@ -42,7 +44,8 @@ Plain‑language summary (not a substitute for the legal code):
 
 - **Attribution (BY)** – You must give appropriate credit.  
 - **NonCommercial (NC)** – You may not use the material for commercial purposes.  
-- **ShareAlike (SA)** – If you remix, transform, or build upon this material and share it, you must distribute your contributions under the same license.
+- **ShareAlike (SA)** – If you remix, transform, or build upon this material and share it, you must
+distribute your contributions under the same license.
 
 For full details, see the official Creative Commons page for CC BY‑NC‑SA 4.0.
 
@@ -50,11 +53,13 @@ For full details, see the official Creative Commons page for CC BY‑NC‑SA 4.0
 
 ## Required attribution
 
-When you release or share anything that uses these stems (even heavily transformed), include a credit line similar to:
+When you release or share anything that uses these stems (even heavily transformed), include a credit
+line similar to:
 
 > Prototype stems courtesy of **seedsignal.io** (CC BY‑NC‑SA 4.0).
 
-If your format allows for more context (liner notes, video description, README, etc.), you can extend this to:
+If your format allows for more context (liner notes, video description, README, etc.), you can extend
+this to:
 
 > Prototype stems courtesy of **seedsignal.io** · public lab under CC BY‑NC‑SA 4.0.
 
@@ -63,8 +68,10 @@ If your format allows for more context (liner notes, video description, README, 
 ## Relationship to the underlying songs
 
 - These prototype stems are **demonstrations and study artifacts**, not canonical “final” masters.  
-- The underlying lyrics and compositions may be separately registered with performing rights organizations and reserved for future official recordings and commercial releases.  
-- Using these stems under CC BY‑NC‑SA does **not** grant you any commercial exploitation rights in the underlying compositions.
+- The underlying lyrics and compositions may be separately registered with performing rights organizations
+and reserved for future official recordings and commercial releases.  
+- Using these stems under CC BY‑NC‑SA does **not** grant you any commercial exploitation rights in the
+underlying compositions.
 
 In practice: you are invited into the lab, not into the catalog.
 
